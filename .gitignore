@@ -1,0 +1,9 @@
+dcrd
+cmd/dcrctl/dcrctl
+cmd/promptsecret/promptsecret
+*~
+*.pyc
+vendor/
+debug
+.idea
+.metadata
